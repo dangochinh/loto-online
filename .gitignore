@@ -1,0 +1,7 @@
+node_modules/
+.firebase/
+client/node_modules/
+client/dist/
+server_backup/node_modules/
+.env
+.DS_Store
