@@ -2,7 +2,7 @@
 
 A real-time, multiplayer Vietnamese Bingo (Lô Tô) game playable on any device. Players join a room with a code, receive randomized tickets, and compete to complete a row first — all synchronized live across all screens.
 
-**Live App:** [https://loto-online.web.app](https://loto-online.web.app)
+**Live App:** [http://loto-online81.surge.sh/](http://loto-online81.surge.sh/)
 
 ---
 
